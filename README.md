@@ -5,7 +5,4 @@ This is the open-source public tool suite for Childish Systems. Feel free to exp
 
 ---
 modules coming soon:
-- forge@home (training mesh)
-- sensory core
-- initialization of future seekers
 - ????
